@@ -1,0 +1,13 @@
+hotel\AbstractEvent.class
+hotel\ResultProcessing.class
+hotel\ResultEnded.class
+hotel\ResultCanceled.class
+hotel\ReservationComfirmed.class
+hotel\config\kafka\KafkaProcessor.class
+hotel\ResultProcessingRepository.class
+hotel\ResultProcessingController.class
+hotel\Application.class
+hotel\Changed.class
+hotel\Canceled.class
+hotel\PolicyHandler.class
+hotel\ResultChanged.class
